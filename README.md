@@ -1,7 +1,7 @@
 <div id="header" align="center" >  
   <img src="https://media.giphy.com/media/SGGHAPCjED1OcW6ixv/giphy.gif" width="100"/>
   <p> Hi, welcome to my Github! </p>
-  <p> I'm a Full stack Javascript Developer, with a huge passion for computers, video games and new technology.<br>
+  <p> I'm a Full stack Javascript Developer, with a huge passion for computers, video games and new technologies.<br>
       I greatly enjoy problem solving and making interesting and applicable software.<br>
       I hope you enjoy your stay here on my page. </p>
 </div>
