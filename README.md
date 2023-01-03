@@ -1,8 +1,8 @@
 # 🏄‍♂️ Salamon Rørvik
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman`**
 
-I'm a junior full-stack developer, trying to succeed in a world of 1's and 0's. 
+I'm a Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's. 
 
    <p align="left">
       <a href="https://github.com/Sallis-GH?tab=followers">
