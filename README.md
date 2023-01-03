@@ -1,15 +1,15 @@
 # 🏄‍♂️ Salamon Rørvik
 
-**`Digital Craftsman`**
-
-I'm a Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's. 
-
-   <p align="left">
+**`Digital Craftsman`**   <p align="right">
       <a href="https://github.com/Sallis-GH?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sallis-GH?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white%22/%3E%3C/"/></a>
       <a href="https://github.com/Sallis-GH?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sallis-GH?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
+I'm a Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's. 
+
+
 
 ---
 
