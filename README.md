@@ -1,5 +1,3 @@
-# 🕹Salamon Rørvik
-
 <div id="header" align="center" >  
   <img src="https://media.giphy.com/media/SGGHAPCjED1OcW6ixv/giphy.gif" width="100"/>
   <p> Hi, welcome to my Github! </p>
