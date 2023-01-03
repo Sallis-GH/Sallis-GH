@@ -3,8 +3,8 @@
 **`Digital Craftsman`**
 
 I'm a Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's. <br>
-All projects you will find on this page, will either be made entirely from the ground up <br>
-either made alone or as a collaboration with others. <br>
+All projects you will find on this page, will either be made entirely from the <br>
+ground up alone or as a collaboration with others. <br>
 
 ---
 
