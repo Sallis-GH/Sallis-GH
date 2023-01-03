@@ -34,6 +34,8 @@ ground up alone or as a collaboration with others. <br>
 
 #
 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-agosta85/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andrea.agosta@appliedtechnology.se)
 <p align="right">
   <a align="right" href="https://github.com/Sallis-GH?tab=followers">
     <img alt="followers" title="Follow me on Github"
