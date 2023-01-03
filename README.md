@@ -1,9 +1,11 @@
-# 🏄‍♂️ Salamon Rørvik
+# Salamon Rørvik
 
 **`Digital Craftsman`**
 
-I'm a Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's.lorem ipsum lorem ipsum lorem ipsum lorem
-ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+I'm a Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's. <br>
+lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem <br>
+ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum <br>
+
 <p align="right">
   <a align="right" href="https://github.com/Sallis-GH?tab=followers">
     <img alt="followers" title="Follow me on Github"
