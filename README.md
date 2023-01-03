@@ -1,12 +1,12 @@
 # Salamon Rørvik
 
-**`Digital Craftsman`**
+**`Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's. `**
 
-I'm a Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's. <br>
-All projects you will find on this page, will either be made entirely from the <br>
-ground up alone or as a collaboration with others. <br>
+- :telescope: I’m working as a consultant and contributing to frontend and backend for building web applications.
 
----
+- :seedling: Exploring Technical Content.
+
+- :zap: In my free time, I make my own projects, learn new technology and read tech articles.
 
 ### Languages and Tools
 
@@ -33,18 +33,6 @@ ground up alone or as a collaboration with others. <br>
 <br />
 
 #
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sallis-GH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-agosta85/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andrea.agosta@appliedtechnology.se)
-<p align="right">
-  <a align="right" href="https://github.com/Sallis-GH?tab=followers">
-    <img alt="followers" title="Follow me on Github"
-      src="https://camo.githubusercontent.com/5d787329c026ca0387446d4a092d79baf70e668127c5a237d34f4a546a56b5f2/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f53616c6c69732d47483f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d77686974652532322f2533452533432f"
-      data-canonical-src="https://custom-icon-badges.demolab.com/github/followers/Sallis-GH?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white%22/%3E%3C/"
-      style="max-width: 100%;"></a>
-  <a href="https://github.com/Sallis-GH?tab=repositories&amp;sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub"
-      src="https://camo.githubusercontent.com/2d705cbae34d8e79edfa914ab060028bbfcb1383465ad708e0b44b4c7211fcca/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f73746172732f53616c6c69732d47483f636f6c6f723d353539363063267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d343838323037266c6f676f3d73746172"
-      data-canonical-src="https://custom-icon-badges.demolab.com/github/stars/Sallis-GH?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star"
-      style="max-width: 100%;"></a>
-</p>
+
