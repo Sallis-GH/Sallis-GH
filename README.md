@@ -3,7 +3,7 @@
 **`Digital Craftsman`**   
 
 
-I'm a Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's. 
+<p align="left"> I'm a Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's. </p>
 
 <p align="right">
       <a href="https://github.com/Sallis-GH?tab=followers">
