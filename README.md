@@ -4,7 +4,7 @@
 
 
 
-<p align="right">
+<p align="left">
 I'm a Junior Full-Stack Developer, trying to succeed in a world of 1's and 0's.
       <a href="https://github.com/Sallis-GH?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sallis-GH?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white%22/%3E%3C/"/></a>
