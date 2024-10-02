@@ -37,16 +37,3 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <br />
 </div>
-
----
-<div align="center">
-  <h3>How to reach me</h3>
-  <a href="https://www.linkedin.com/in/salamon-rorvik/">
-    <img title="Linkedin" alt="Linkedin"
-      src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:salamon.rorvik@appliedtechnology.se">
-    <img title="Gmail" alt="Gmail"
-      src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</div>
